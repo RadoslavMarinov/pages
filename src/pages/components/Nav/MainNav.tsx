@@ -40,6 +40,7 @@ export const MainNav = ({}: MainNavProps) => {
         text-lg
         min-w-[280px]
         md:w-full
+        h-screen
         right-0
         md:left-0
         transition-transform duration-200 ease-out
