@@ -1,7 +1,7 @@
 import Education from "@/components/resume/Education";
 import MainSection from "@/components/resume/MainSection";
 import Objective from "@/components/resume/Objective";
-import WorkExperience from "@/components/resume/WorkExperience.section";
+import WorkExperience from "@/components/resume/Experience/WorkExperience.section";
 import { StaticImage } from "@/components/StaticImage";
 import React from "react";
 

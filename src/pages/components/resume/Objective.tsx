@@ -5,7 +5,7 @@ const Objective: React.FC = () => {
   return (
     <div>
       <SectionTitle title="Objective"></SectionTitle>
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center text-center">
         <p className="my-2">
           Software Developer with over 10 years of experience leading and
           collaborating on diverse projects, including the development of
